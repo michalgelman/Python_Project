@@ -1,2 +1,2 @@
 # Python_Project
-10 pytho exercises
+10 python solved exercises
